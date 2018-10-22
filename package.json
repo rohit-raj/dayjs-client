@@ -1,0 +1,17 @@
+{
+  "name": "dayjs-client",
+  "version": "1.0.0",
+  "description": "A simple client for making dayjs similar to a few functionality of moment",
+  "license": "MIT",
+  "repository": "rohit-raj/dayjs-client",
+  "main": "index.js",
+  "keywords": [
+    "dayjs-client",
+    "npm",
+    "package",
+    "rohit-raj"
+  ],
+  "dependencies": {
+    "dayjs-ext": "^1.11.1"
+  }
+}
