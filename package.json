@@ -1,5 +1,5 @@
 {
-  "name": "dayjs-client",
+  "name": "@rohit-raj/dayjs-client",
   "version": "1.0.0",
   "description": "A simple client for making dayjs similar to a few functionality of moment",
   "license": "MIT",
